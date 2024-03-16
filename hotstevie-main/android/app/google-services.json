@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "555101262130",
+    "project_id": "warehouse-170bd",
+    "storage_bucket": "warehouse-170bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555101262130:android:bf96809188d457a7e3c72b",
+        "android_client_info": {
+          "package_name": "com.example.hotstevie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555101262130-d6df5ohloegnhshhr7p2bu8opfbhqfiu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hotstevie",
+            "certificate_hash": "7d578fbb28e3b1ae5a38834759218ec48a98da06"
+          }
+        },
+        {
+          "client_id": "555101262130-vnlv9krkovuvgdfmon3pqcet67ijvivn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7zRiq_exMetKJn3C47glZP6iAblVs86A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555101262130-vnlv9krkovuvgdfmon3pqcet67ijvivn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

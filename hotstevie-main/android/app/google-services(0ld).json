@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "555101262130",
+    "project_id": "warehouse-170bd",
+    "storage_bucket": "warehouse-170bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555101262130:android:bf96809188d457a7e3c72b",
+        "android_client_info": {
+          "package_name": "com.example.hotstevie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7zRiq_exMetKJn3C47glZP6iAblVs86A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
