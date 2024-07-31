@@ -20,8 +20,10 @@ This project demonstrates the integration of advanced technologies such as Flutt
 - **Unity:** For advanced AR features and interactive experiences.
 
 ## Screenshot 
-![App Screenshot](https://github.com/tanishq507/ARacdamy/blob/main/brain.jpeg)
-![](https://github.com/tanishq507/ARacdamy/blob/main/heart.jpeg)
+![App Screenshot](hotstevie-main/img1.jpeg)
+![](hotstevie-main/img3.jpeg)
+![](hotstevie-main/img4.jpeg)
+
 
 ![](https://github.com/tanishq507/ARacdamy/blob/main/view.jpeg)
 ## Setup
