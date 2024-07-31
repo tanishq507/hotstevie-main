@@ -24,8 +24,6 @@ This project demonstrates the integration of advanced technologies such as Flutt
 ![](hotstevie-main/img3.jpeg)
 ![](hotstevie-main/img4.jpeg)
 
-
-![](https://github.com/tanishq507/ARacdamy/blob/main/view.jpeg)
 ## Setup
 
 1. **Clone the Repository:**
