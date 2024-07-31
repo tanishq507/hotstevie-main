@@ -19,6 +19,11 @@ This project demonstrates the integration of advanced technologies such as Flutt
 - **Machine Learning:** To provide intelligent insights and recommendations.
 - **Unity:** For advanced AR features and interactive experiences.
 
+## Screenshot 
+![App Screenshot](https://github.com/tanishq507/ARacdamy/blob/main/brain.jpeg)
+![](https://github.com/tanishq507/ARacdamy/blob/main/heart.jpeg)
+
+![](https://github.com/tanishq507/ARacdamy/blob/main/view.jpeg)
 ## Setup
 
 1. **Clone the Repository:**
@@ -26,3 +31,12 @@ This project demonstrates the integration of advanced technologies such as Flutt
    ```sh
    git clone https://github.com/your-username/your-repository.git
    cd your-repository
+
+
+
+## Feedback
+
+We welcome feedback from users and contributions from the community to further enhance the Medical Learning App. Feel free to submit bug reports, feature requests, or pull requests to help us improve the app and make it even more valuable for medical students worldwide.
+
+## 🚀 About Me
+Hey there! 👋 I'm Tanish , a seasoned Flutter developer passionate about creating sleek and efficient cross-platform mobile apps. With 1.5 years of experience, I specialize in crafting delightful user experiences and optimizing app performance. Let's build something amazing together!
